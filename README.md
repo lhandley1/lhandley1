@@ -3,7 +3,7 @@
 My name is Luke, and I'm an undergraduate BSc Computer Science student in my final year. I interested in UX/UI, AI, Internet of Things, and emerging technologies. 
 
 -🔭 I’m currently working on ...
--🌱 I’m currently learning about the React framework and UX/UI concepts and tools such as @figma.
+-🌱 I’m currently learning about the [React] (https://react.dev/) and UX/UI concepts and tools such as [Figma](https://www.figma.com/).
 
 <!--
 **lhandley1/lhandley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
