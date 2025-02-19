@@ -1,4 +1,4 @@
-# 🎓 **Undergraduate Student | Bsc Computer Science | Oxford Brookes University**
+## 🎓 **Undergraduate Student | Bsc Computer Science | Oxford Brookes University**
 
 ## **📌 About Me**
 - 💡 Interested in Web Development, Mobile Development, AI, and Computer Vision
