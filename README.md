@@ -1,6 +1,6 @@
 ## **📌 About Me**
 - 💡 Interested in Web Development, Mobile Development, AI, and Computer Vision
-- 🚀 Currenltly working on a Django web app for my dissertation project that indentifies leftover ingredients, suggests recipes, and help students manage their budgets while reducing food waste.
+- 🚀 Currenltly working on a Django web app for my dissertation project that helps students reduce food waste and manage their budgets by suggesting recipes based on leftover ingredients.
 - 📫 Contact me: [linkedin/luke-a-handley](https://www.linkedin.com/in/luke-a-handley/) | l.handley@outlook.com
 
 ## **📂 Projects** 
