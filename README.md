@@ -1,6 +1,6 @@
 ## **📌 About Me**
 - 💡 Interested in Web Development, Mobile Development, AI, and Computer Vision
-- 🚀 Currenltly working on a Django web app  for my dissertation project. It leverages OpenCV for image feature extraction and categorisation of leftover ingredients by food type, helping students generate recipe ideas, manage their budgets, and reduce food waste.
+- 🚀 Currenltly working on a Django web app for my dissertation project that uses OpenCV to identify leftover ingredients, suggests recipes, and help students manage their budgets while reducing food waste.
 - 📫 Contact me: [linkedin/luke-a-handley](https://www.linkedin.com/in/luke-a-handley/) | l.handley@outlook.com
 
 ## **📂 Projects** 
