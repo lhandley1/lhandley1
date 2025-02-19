@@ -7,7 +7,7 @@
 ## <img  alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="80" /> **ZeroWasteCook**
 ### Save More | Waste Less | Cook Smart
 
-A Django web app that uses **OpenCV** to extract images features and categorise leftover ingredients and the **Edamam Recipe Search API** to provide recipe suggestions, helping students minimise food waste and save on their weekly shop. *(Dissertation project)*
+A **Django** web app that uses **OpenCV** to extract images features and categorise leftover ingredients and the **Edamam Recipe Search API** to provide recipe suggestions, helping students minimise food waste and save on their weekly shop. *(Dissertation project)*
 ## <img  alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.jpg" width="80" /> **ChatAdvisor**
 
 A chatbot for Oxford Brookes University students with learning difficulties, offering information on ISPs, assignment extensions and other student information. It uses **Azure AI Text Analytics** to summarise advice, **OpenAI GPT-3.5** with a primed prompt for conversational AI, and **Apache Lucene** to search resources based on user query keywords. *(Group Project)*
