@@ -30,11 +30,11 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 
 ## 📂 Featured Projects
 
-### <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="80" /> ZeroWasteCook
+### <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="90" /> ZeroWasteCook
 * **Core Idea**: A Django web app, **ZeroWasteCook**, leverages **AI image recognition** (PyTorch InceptionV3) and the **Edamam API** to help students reduce food waste with smart recipes, expiry tracking, CO₂/nutrition insights, and estimated £ savings.
 * **Status**: *Dissertation Project - Version 2 in progress*
 
-### <img alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.png" width="80" /> ChatAdvisor
+### <img alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.png" width="100" /> ChatAdvisor
 * **Core Idea**: As part of an Agile Scrum team for the Innovative Product Development module, **ChatAdvisor** is an AI chatbot using **Apache Lucene**, **Azure AI Text Analytics**, and **OpenAI GPT-3.5** to simplify access to university support resources for students with learning difficulties.
 * **Status**: *Group Project - Completed*
 
