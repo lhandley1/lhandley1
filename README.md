@@ -30,7 +30,7 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 
 ## 📂 Featured Projects
 
-### <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="90" /> ZeroWasteCook
+### <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="100" /> ZeroWasteCook
 * **Core Idea**: A Django web app, **ZeroWasteCook**, leverages **AI image recognition** (PyTorch InceptionV3) and the **Edamam API** to help students reduce food waste with smart recipes, expiry tracking, CO₂/nutrition insights, and estimated £ savings.
 * **Status**: *Dissertation Project - Version 2 in progress*
 
