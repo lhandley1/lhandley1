@@ -13,7 +13,7 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 
 ## 🎓 Education
 
-**BSc (Hons) Computer Science** - Oxford Brookes University | `[Your Graduation Year/Dates Here]`
+**BSc (Hons) Computer Science** - Oxford Brookes University | Graduating September 2025
 * Focus areas: Software Engineering, Artificial Intelligence, Web Development.
 * Dissertation: ZeroWasteCook.
 
