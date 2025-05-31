@@ -24,7 +24,7 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,pytorch,html,css,js,react,sqlite,java,c,cpp,r,ai,azure,gcp,figma,blender,git&perline=8)](https://skillicons.dev)
 
 * **Key Languages & Frameworks**: Python (Django, Flask, PyTorch), JavaScript (React), Java, C/C++, SQL
-* **Interests**: AI/ML (Azure AI, GCP), Web & Mobile Development
+* **Interests**: AI/ML (Azure AI, GCP, CNN), Web & Mobile Development
 
 ---
 
