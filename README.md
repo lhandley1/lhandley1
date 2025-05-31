@@ -1,16 +1,59 @@
-## **📌 About Me**
-- 💡 Interested in Web Development, Mobile Development, AI, and Computer Vision
-- 🚀 Currenltly working on a Django web app for my dissertation project that helps students reduce food waste and manage their budgets by suggesting recipes based on leftover ingredients and keep track of recipe expiry dates.
-- 📫 Contact me: [linkedin/luke-a-handley](https://www.linkedin.com/in/luke-a-handley/) | l.handley@outlook.com
+# Hi, I'm Luke Handley! 👋
 
-## **📂 Projects** 
-## <img  alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="80" /> **ZeroWasteCook**
-### Save More | Waste Less | Cook Smart
+<a href="https://lhandley1.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/View_My_Portfolio-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/luke-a-handley/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:l.handley@outlook.com"><img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 
-A **Django** web app that uses **OpenCV** to extract images features and categorise leftover ingredients and the **Edamam Recipe Search API** to provide recipe suggestions, helping students minimise food waste and save on their weekly shop. *(Dissertation project)*
-## <img  alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.jpg" width="80" /> **ChatAdvisor**
+Aspiring Software Engineer and Computer Science student at Oxford Brookes University.
+Passionate about **Web Development, Mobile Development, AI, and Computer Vision**.
 
-A chatbot for Oxford Brookes University students with learning difficulties, offering information on ISPs, assignment extensions and other student information. It uses **Azure AI Text Analytics** to summarise advice, **OpenAI GPT-3.5** with a primed prompt for conversational AI, and **Apache Lucene** to search resources based on user query keywords. *(Group Project)*
+🚀 Currently working on **ZeroWasteCook**.
+➡️ For more details on my projects and experience, please visit my **[Portfolio Site](https://lhandley1.github.io/portfolio/)**.
 
-# 💻 Development Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,c,cpp,html,css,js,django,flask,react,sqlite,figma,gcp,azure,blender&perline=4)](https://skillicons.dev)
+---
+
+## 🎓 Education
+
+**BSc (Hons) Computer Science** - Oxford Brookes University | `[Your Graduation Year/Dates Here]`
+* Focus areas: Software Engineering, Artificial Intelligence, Web Development.
+* Dissertation: ZeroWasteCook.
+
+---
+
+## 🛠️ My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,pytorch,html,css,js,react,sqlite,java,c,cpp,r,ai,azure,gcp,figma,blender,git&perline=8)](https://skillicons.dev)
+
+* **Key Languages & Frameworks**: Python (Django, Flask, PyTorch), JavaScript (React), Java, C/C++, SQL
+* **Interests**: AI/ML (Azure AI, GCP), Web & Mobile Development
+
+---
+
+## 📂 Featured Projects
+
+*(Full details and more projects on my [portfolio](https://lhandley1.github.io/portfolio/))*
+
+### <img alt="ZeroWasteCook Logo" src="https://github.com/lhandley1/assets/blob/main/DarkZeroWasteCookLogo.png" width="40" /> ZeroWasteCook
+* **Core Idea**: A Django web app, **ZeroWasteCook**, leverages **AI image recognition** (PyTorch InceptionV3) and the **Edamam API** to help students reduce food waste with smart recipes, expiry tracking, CO₂/nutrition insights, and estimated £ savings.
+* **Status**: *Dissertation Project - Version 2 in progress*
+
+### <img alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.jpg" width="40" /> ChatAdvisor
+* **Core Idea**: As part of an Agile Scrum team for an Innovative Product Development module, **ChatAdvisor** is an AI chatbot using **Apache Lucene**, **Azure AI Text Analytics**, and **OpenAI GPT-3.5** to simplify access to university support resources for students with learning difficulties.
+* **Status**: *Group Project - Completed*
+
+---
+
+## 🌱 Currently Exploring
+* Advanced applications in **AI and Computer Vision** with PyTorch.
+* Cross-platform **Mobile Development** using **React Native**.
+
+---
+
+## 📫 Get In Touch
+
+Let's connect! You can find me here:
+* **Portfolio**: [lhandley1.github.io/portfolio](https://lhandley1.github.io/portfolio/)
+* **LinkedIn**: [linkedin.com/in/luke-a-handley](https://www.linkedin.com/in/luke-a-handley/)
+* **Email**: l.handley@outlook.com
+
+---
