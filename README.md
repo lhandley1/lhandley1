@@ -35,7 +35,7 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 * **Status**: *Dissertation Project - Version 2 in progress*
 
 ### <img alt="ChatAdvisor Logo" src="https://github.com/lhandley1/assets/blob/main/ChatAdvisor.jpg" width="40" /> ChatAdvisor
-* **Core Idea**: As part of an Agile Scrum team for an Innovative Product Development module, **ChatAdvisor** is an AI chatbot using **Apache Lucene**, **Azure AI Text Analytics**, and **OpenAI GPT-3.5** to simplify access to university support resources for students with learning difficulties.
+* **Core Idea**: As part of an Agile Scrum team for the Innovative Product Development module, **ChatAdvisor** is an AI chatbot using **Apache Lucene**, **Azure AI Text Analytics**, and **OpenAI GPT-3.5** to simplify access to university support resources for students with learning difficulties.
 * **Status**: *Group Project - Completed*
 
 ---
