@@ -41,7 +41,7 @@ Passionate about **Web Development, Mobile Development, AI, and Computer Vision*
 ---
 
 ## 🌱 Currently Exploring
-* Advanced applications in **AI and Computer Vision** with PyTorch.
+* Advanced applications in **AI and Computer Vision**.
 * Cross-platform **Mobile Development** using **React Native**.
 
 ---
