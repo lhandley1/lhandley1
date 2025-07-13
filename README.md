@@ -14,7 +14,7 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 
 ## 🛠️ Areas of Expertise
 
-[![Skills](https://skillicons.dev/icons?i=py,java,js,r,cpp,c,html,css,django,flask,react,sqlite,mysql,pytorch,gcp,azure,vscode,idea,arduino,git&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,java,js,r,cpp,c,html,css,django,flask,react,sqlite,mysql,pytorch,azure,gcp,vscode,idea,arduino,git&perline=4)](https://skillicons.dev)
 
 ## 📂 Featured Projects
 
