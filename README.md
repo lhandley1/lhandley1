@@ -10,7 +10,7 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 
 ## 🌱 Currently Exploring
 * Advanced applications with **Agentic AI and Computer Vision**.
-* AI/ML frameworks: **PyTorch, LangChain, OpenAI, Anthropic API, MCP (Model Context Protocol) and Hugging Face.**
+* AI/ML frameworks: **PyTorch, LangChain, OpenAI API, Anthropic API, MCP (Model Context Protocol) and Hugging Face.**
 
 ## 🛠️ Areas of Expertise
 
