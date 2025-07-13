@@ -12,7 +12,7 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 * Advanced applications with **Agentic AI and Computer Vision**.
 * AI/ML frameworks: **PyTorch, LangChain, OpenAI API, Anthropic API, MCP (Model Context Protocol) and Hugging Face.**
 
-## 🛠️ Areas of Expertise
+## 🛠️ Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=py,java,js,r,cpp,c,html,css,django,flask,react,sqlite,mysql,pytorch,azure,gcp,vscode,idea,arduino,git&perline=4)](https://skillicons.dev)
 
