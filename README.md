@@ -19,7 +19,7 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 ## 📂 Featured Projects
 
 ## ZeroWasteCook
-*Save More 💰 | Waste Less ♻️ | Cook Smart 🍳*
+*Save More | Waste Less | Cook Smart*
 ### Overview
 * **AI-powered web application** designed to help university students minimise food waste and save money through intelligent recipe recommendations and smart food management. Built with **Django** and featuring a **fine-tuned PyTorch InceptionV3 model** for ingredient recognition from uploaded images, the app provides personalised recipe suggestions via **Edamam's Recipe Search API** whilst tracking expiry dates and calculating environmental impact ratings. User research validated **strong student interest (>70%) in the app's core features**, demonstrating its potential to promote sustainable and budget-friendly cooking habits amongst students.
 ### Status 
