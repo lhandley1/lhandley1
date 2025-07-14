@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=2500&pause=1000&color=31D815&width=504&height=40&lines=%7B%22Hi%2C+I'm+Luke+Handley!%22%7D%F0%9F%91%8B;%7B%22Welcome+to+my+GitHub+Profile!%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=1000&color=31D815&width=504&height=40&lines=%7B%22Hi%2C+I'm+Luke+Handley!%22%7D%F0%9F%91%8B;%7B%22Welcome+to+my+GitHub+Profile!%22%7D)](https://git.io/typing-svg)
 
 <a href="https://lhandley1.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/View_My_Portfolio-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/luke-a-handley/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
