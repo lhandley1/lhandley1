@@ -9,6 +9,7 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 <i>🚀 Currently working on **ZeroWasteCook**</i>
 
 ## 🌱 Currently Exploring
+* Mobile application development: **Flutter (Dart)**
 * Advanced applications with **Agentic AI and Computer Vision**.
 * AI/ML frameworks: **PyTorch, LangChain, OpenAI API, Anthropic API, MCP (Model Context Protocol) and Hugging Face.**
 
