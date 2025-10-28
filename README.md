@@ -1,4 +1,5 @@
-<img width="2560" height="640" alt="lhandley1-readme-banner" src="https://github.com/user-attachments/assets/9c82baf6-8796-4430-a244-403002dda63f" />
+<img width="2560" height="640" alt="lhandley1-readme-banner" src="https://github.com/user-attachments/assets/5f540ca0-c4c9-4207-979f-6ef7243e1eb1" />
+
 
 ## 👨‍💻 Profile
 Aspiring **AI/Software Engineer** and recent **Bsc (Hons) Computer Science** graduate.
