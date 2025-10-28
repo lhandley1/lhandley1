@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=3000&pause=1000&color=31D815&width=504&height=40&lines=%7B%22Hi%2C+I'm+Luke+Handley!%22%7D%F0%9F%91%8B;%7B%22Welcome+to+my+GitHub+Profile!%22%7D)](https://git.io/typing-svg)
+<img width="2560" height="640" alt="lhandley1-readme-banner" src="https://github.com/user-attachments/assets/9c82baf6-8796-4430-a244-403002dda63f" />
 
-<a href="https://lhandley1.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/View_My_Portfolio-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/luke-a-handley/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
+## 👨‍💻 Profile
 Aspiring **AI/Software Engineer** and recent **Bsc (Hons) Computer Science** graduate.
 
 Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs and Agentic AI**.
@@ -31,10 +30,5 @@ Passionate about **Full-Stack Development, Computer Vision, Generative AI, LLMs 
 * **AI-powered chatbot** developed in an **Agile Scrum** team to **enhance university student support** through intelligent information retrieval and personalised assistance. Built with **Java**, it integrates **Apache Lucene** for efficient search, **Microsoft Azure AI Text Analytics** for text summarisation, and **OpenAI's GPT-3.5 Turbo** for nuanced responses. The application features an intuitive **Java Swing** interface that delivers tailored recommendations to help students, especially those with learning difficulties, navigate support resources more effectively.
 ### Status 
 * **Group Project** - Completed
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lhandley1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lhandley1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lhandley1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
